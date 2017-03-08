@@ -1,4 +1,6 @@
 # Microsoft System Center Service Manager - OMS Connector
+![version badge](https://img.shields.io/badge/version-v0.0.9-green.svg)
+
 App to connect your SCSM to OMS. Click on the `deploy to Azure` button to start.
 
 # License
